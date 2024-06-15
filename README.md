@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/raul-pavani-846307157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raul-pavani-846307157/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/raulpavani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raulpavani/" height="30" width="40" /></a>
+<a href="https://raulpavani.itch.io/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" alt="https://raulpavani.itch.io/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
