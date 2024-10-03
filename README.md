@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Raul Pavani</h1>
+<h1 align="center">Hi, I'm Raul Pavani</h1>
 <h3 align="center">A passionate gamedev from Brazil</h3>
 
-- 🎮 All my questionable games are available at [https://raulpavani.itch.io/](https://raulpavani.itch.io/)
+- :feelsgood: All my questionable games are available at [https://raulpavani.itch.io/](https://raulpavani.itch.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
