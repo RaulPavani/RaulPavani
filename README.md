@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raul Pavani</h1>
-<h3 align="center">A passionate gamedev from Brazil</h3><br>
+<h3 align="center">A passionate gamedev from Brazil</h3>
 
 <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d3ba0e33-f5a7-410b-ac96-c1c2829db5ae" height="150%" width="150%" /></a>
 
