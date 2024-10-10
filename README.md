@@ -1,20 +1,49 @@
-<h1 align="center">Hi, I'm Raul Pavani</h1>
-<h3 align="center">A passionate gamedev from Brazil</h3>
+<h2 align="left">game dev from brazil</h2>
 
-<a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d3ba0e33-f5a7-410b-ac96-c1c2829db5ae" height="150%" width="150%" /></a>
+###
 
-:feelsgood: All my questionable games are available at [https://raulpavani.itch.io/](https://raulpavani.itch.io/)
+<br clear="both">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/raul-pavani-846307157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raul-pavani-846307157/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/raulpavani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raulpavani/" height="30" width="40" /></a>
-<a href="https://raulpavani.itch.io/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" alt="https://raulpavani.itch.io/" height="40" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3d2f03ee-2d3e-49cc-bdca-c52f85245e95" src="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life"/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a><a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40"/></a></p>
+###
 
-</p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulpavani&layout=compact&langs_count=7&theme=dark&hide=html,css" alt="raulpavani"/></p>
+<br clear="both">
 
+<div align="left">
+  <a href="https://www.instagram.com/raulpavani/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="raul.pavani@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/raul-pavani-846307157/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=unity" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaulPavani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
